@@ -4,7 +4,7 @@ import { Button, StyleSheet, Text, View } from 'react-native';
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text>hello</Text>
+      <Text>hello changing the text</Text>
     <View>
      <Button >
     </View>
