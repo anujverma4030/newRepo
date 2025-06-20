@@ -5,7 +5,7 @@ export default class feature extends Component {
   render() {
     return (
       <View>
-        <Text> textInComponent </Text>
+        <Text> textInComponent which can be showed </Text>
       </View>
     )
   }
