@@ -6,7 +6,7 @@ const App = () => {
     <View style={styles.container}>
       <Text>hello changing the text</Text>
     <View>
-     <Button >
+     
     </View>
   </View>
   );
